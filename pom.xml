@@ -4,7 +4,7 @@
 
     <groupId>br.com.damsete</groupId>
     <artifactId>ireport</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -322,7 +322,7 @@
         <connection>scm:git:git://github.com/andretads/ireport.git</connection>
         <developerConnection>scm:git:git@github.com:andretads/ireport.git</developerConnection>
         <url>https://github.com/andretads/ireport</url>
-        <tag>HEAD</tag>
+        <tag>ireport-0.0.1</tag>
     </scm>
 
     <reporting>
